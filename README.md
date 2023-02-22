@@ -4,9 +4,15 @@ My custom presets for [input-overlay](https://github.com/univrsal/input-overlay)
 
 ---
 
+## Installation
+
+* Install input-overlay. >[Installation Instructions](https://github.com/univrsal/input-overlay/wiki/Installation)<
+* Go to this repository's [Releases](https://github.com/FibreTTP/input-overlay-presets/releases) page, and download the latest input-overlay-presets-v\*.\*.\*.zip file.
+* Extract the .zip file somewhere (ideally next to the original presets).
+
 ## Usage
 
-After installing [input-overlay](https://github.com/univrsal/input-overlay/wiki/Installation), extract these presets somewhere (ideally next to the default presets) and select them in OBS as you would the default presets.
+Select the image and config files in OBS as you would with the [default presets](https://github.com/univrsal/input-overlay/wiki/Usage).
 
 ### input-history
 
