@@ -1,0 +1,107 @@
+{
+    "default_height": 0,
+    "default_width": 0,
+    "elements": [
+        {
+            "code": 1,
+            "id": "lmb",
+            "mapping": [
+                1,
+                1,
+                139,
+                174
+            ],
+            "pos": [
+                73,
+                183
+            ],
+            "type": 3,
+            "z_level": "1"
+        },
+        {
+            "id": "wheel",
+            "mapping": [
+                285,
+                246,
+                48,
+                95
+            ],
+            "pos": [
+                217,
+                170
+            ],
+            "type": 4,
+            "z_level": 1
+        },
+        {
+            "code": 5,
+            "id": "smb1",
+            "mapping": [
+                285,
+                1,
+                40,
+                62
+            ],
+            "pos": [
+                206,
+                377
+            ],
+            "type": 3,
+            "z_level": 1
+        },
+        {
+            "code": 4,
+            "id": "smb2",
+            "mapping": [
+                284,
+                1,
+                41,
+                62
+            ],
+            "pos": [
+                242,
+                377
+            ],
+            "type": 3,
+            "z_level": 1
+        },
+        {
+            "id": "dot",
+            "mapping": [
+                614,
+                207,
+                20,
+                20
+            ],
+            "mouse_radius": 50,
+            "mouse_type": 0,
+            "pos": [
+                232,
+                309
+            ],
+            "type": 9,
+            "z_level": 1
+        },
+        {
+            "type": 3,
+            "pos": [
+                269,
+                183
+            ],
+            "id": "rmb",
+            "z_level": 1,
+            "mapping": [
+                142,
+                1,
+                142,
+                174
+            ],
+            "code": 2
+        }
+    ],
+    "flags": 8,
+    "overlay_height": 439,
+    "overlay_width": 411,
+    "space_h": 0,
+    "space_v": 0
+}
