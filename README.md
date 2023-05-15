@@ -6,9 +6,9 @@ My custom presets for [input-overlay](https://github.com/univrsal/input-overlay)
 
 ## Installation
 
-- Install input-overlay. >[Installation Instructions](https://github.com/univrsal/input-overlay/wiki/Installation)<
-- Go to this repository's [Releases](https://github.com/FibreTTP/input-overlay-presets/releases) page, and download the latest input-overlay-presets-v\*.\*.\*.zip file.
-- Extract the .zip file somewhere (ideally next to the original presets).
+* Install input-overlay. >[Installation Instructions](https://github.com/univrsal/input-overlay/wiki/Installation)<
+* Go to this repository's [Releases](https://github.com/FibreTTP/input-overlay-presets/releases) page, and download the latest input-overlay-presets-v\*.\*.\*.zip file.
+* Extract the .zip file somewhere (ideally next to the original presets).
 
 ## Usage
 
