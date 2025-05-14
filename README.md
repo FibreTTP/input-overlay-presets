@@ -1,7 +1,3 @@
-As of 2023-10-25, the Apex Legends presets are outdated as they were built for a previous version of input-overlay. I no longer play Apex, so I have no desire to update the presets.
-
----
-
 # input-overlay-presets
 
 My custom presets for [input-overlay](https://github.com/univrsal/input-overlay).
