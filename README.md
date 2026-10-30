@@ -1,5 +1,8 @@
 # input-overlay-presets
 
+> [!WARNING]
+> Further development is available at: [git.gay/FibreTTP/input-overlay-presets](https://git.gay/FibreTTP/input-overlay-presets)
+
 My custom presets for [input-overlay](https://github.com/univrsal/input-overlay).
 
 ---
